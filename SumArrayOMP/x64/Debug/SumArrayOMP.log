@@ -1,0 +1,5 @@
+﻿  SumArrayOMP.cpp
+C:\Users\Edgar\source\repos\SumArrayOMP\SumArrayOMP\SumArrayOMP.cpp(21,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Edgar\source\repos\SumArrayOMP\SumArrayOMP\SumArrayOMP.cpp(22,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Edgar\source\repos\SumArrayOMP\SumArrayOMP\SumArrayOMP.cpp(17,9): warning C4101: 'i': unreferenced local variable
+  SumArrayOMP.vcxproj -> C:\Users\Edgar\source\repos\SumArrayOMP\x64\Debug\SumArrayOMP.exe
